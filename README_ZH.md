@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[English](README.md)
+
 這是一個方便的瀏覽器使用者腳本（userscript），讓您能夠使用滑鼠輕鬆調整網頁影片的播放速度和音量，並提供即時視覺回饋。
 
 ## 功能特色
