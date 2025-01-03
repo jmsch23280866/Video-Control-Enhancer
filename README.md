@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[繁體中文](README_ZH.md)
+
 A convenient browser userscript that allows you to easily adjust video playback speed and volume using mouse controls, with real-time visual feedback.
 
 ## Features
