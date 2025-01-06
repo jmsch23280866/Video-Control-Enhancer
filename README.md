@@ -35,8 +35,8 @@ A convenient browser userscript that allows you to easily adjust video playback 
    - Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 2. Click the following link to install the script:
-   - [Install Script](installation_link) <!-- Replace with actual installation link -->
-
+   - [Install Script](https://greasyfork.org/scripts/522978)
+     
 ## Technical Details
 
 - Pure JavaScript implementation
