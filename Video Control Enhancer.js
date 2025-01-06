@@ -3,9 +3,10 @@
 // @name:zh-TW   影片控制增強器（條件阻止滾動）
 // @namespace    https://github.com/jmsch23280866
 // @version      1.0
-// @description  Adjust video playback speed and volume with HUD showing real-time values inside the video frame. Conditional scroll blocking applied.
-// @description:zh-TW 使用滑鼠滾輪和按鍵組合調整影片播放速度和音量，並在影片框架內顯示即時值提示框。僅在條件下阻止滾動。
+// @description  Adjust video playback speed and volume with HUD showing real-time values inside the video frame. Conditional scroll blocking applied. (Script assisted by ChatGPT)
+// @description:zh-TW 使用滑鼠滾輪和按鍵組合調整影片播放速度和音量，並在影片框架內顯示即時值提示框。僅在條件下阻止滾動。（此腳本由ChatGPT協助撰寫）
 // @author       特務E04
+// @supportURL   https://github.com/jmsch23280866/Video-Control-Enhancer/issues
 // @license      MIT
 // @match        *://*/*
 // @grant        none
