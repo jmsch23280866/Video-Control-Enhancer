@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Video Control Enhancer with Conditional Blocking
-// @name:zh-TW   影片控制增強器（條件阻止滾動）
+// @name         Video Volume/Playback Speed Controller
+// @name:zh-TW   影片音量/撥放速度控制器
 // @namespace    https://github.com/jmsch23280866
 // @version      1.0
 // @description  Adjust video playback speed and volume with HUD showing real-time values inside the video frame. Conditional scroll blocking applied. (Script assisted by ChatGPT)
