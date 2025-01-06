@@ -63,7 +63,8 @@ Agent_E04 ([@jmsch23280866](https://github.com/jmsch23280866))
 
 ## AI Assistance Statement
 
-This project was developed with assistance from Claude 3.5 Sonnet and ChatGPT AI, including code optimization suggestions and documentation writing. We believe in transparent disclosure of AI participation to promote open-source community development.
+- This project was developed with assistance from Claude 3.5 Sonnet and ChatGPT AI, including code optimization suggestions and documentation writing. 
+- I believe in transparent disclosure of AI participation to promote open-source community development.
 
 ## Changelog
 
