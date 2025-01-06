@@ -35,7 +35,7 @@
    - Firefox：[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 2. 點擊以下連結安裝腳本：
-   - [安裝腳本](安裝連結) <!-- 請替換成實際的安裝連結 -->
+   - [安裝腳本]((https://greasyfork.org/scripts/522978))
 
 ## 技術細節
 
