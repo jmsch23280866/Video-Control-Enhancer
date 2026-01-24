@@ -80,7 +80,7 @@
 
         // Shift + 滾輪：調整音量
         if (event.shiftKey) {
-            const delta = Math.sign(deltaY) * 0.05; // 每次增減 0.05 音量
+            const delta = Math.sign(deltaY) * 0.01; // 每次增減 0.01 音量
             const newVolume = Math.max(0, Math.min(media.volume + delta, 1)); // 限制範圍 0 到 1
             media.volume = newVolume;
             showHUD(media, `音量：${Math.round(newVolume * 100)}%`);
