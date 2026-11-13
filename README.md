@@ -1,5 +1,3 @@
-[English](#english) | [繁體中文](#traditional-chinese)
-
 <a id="english"></a>
 # Video Speed & Volume Adjuster with HUD
 
